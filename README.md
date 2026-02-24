@@ -144,10 +144,6 @@ Designed for executive decision support and exploratory analysis.
 
 ---
 
- Highlights importance of data governance.
-
----
-
 ## Business Recommendations
 
 ### Improve Checkout Conversion
